@@ -28,15 +28,14 @@ The system also features a **Streamlit interface** for interactive predictions a
 ---
 
 ## Screenshots
-### Invalid User ID
-![Invalid User ID](output/invalid_UserID.png)
 
-### Valid User ID
-![Valid User ID](output/valid_UserID.png)
+| Invalid User ID | Valid User ID |
+|-----------------|---------------|
+| ![Invalid](output/invalid_UserID.png) | ![Valid](output/valid_UserID.png) |
 
 ---
 
 ## Future Improvements
-Upgrade Streamlit frontend with multi-page UI and visualizations.
-Real-time recommendation updates when database changes.
-Deploy to Heroku / Streamlit Cloud for online access.
+- Upgrade Streamlit frontend with multi-page UI and visualizations.
+- Real-time recommendation updates when database changes.
+- Deploy to Heroku / Streamlit Cloud for online access.
