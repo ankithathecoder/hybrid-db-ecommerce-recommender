@@ -28,8 +28,8 @@ The system also features a **Streamlit interface** for interactive predictions a
 ---
 
 ## Screenshots
-**Invalid User ID**: app/output/invalid_UserID.png
-**Valid User ID**: app/output/valid_UserID.png
+**Invalid User ID**: output/invalid_UserID.png
+**Valid User ID**: output/valid_UserID.png
 
 ---
 
