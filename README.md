@@ -50,21 +50,6 @@ Interactive dashboards were created using :contentReference[oaicite:0]{index=0} 
 - Event Type Distribution
 - Most Interacted Products
 
-### Data Relationships
-Relationships were created between:
-- Users ↔ Orders
-- Users ↔ Interactions
-- Products ↔ Orders
-- Products ↔ Interactions
-
-to enable cross-table analytics and dashboard visualizations.
-
-## Dashboard Screenshots
-
-<p align="center">
-  <img src="visualization/model_view.png" width="55%">
-</p>
-
 <table>
   <tr>
     <td align="center">
@@ -79,6 +64,18 @@ to enable cross-table analytics and dashboard visualizations.
     </td>
   </tr>
 </table>
+
+### Data Relationships
+Relationships were created between:
+- Users ↔ Orders
+- Users ↔ Interactions
+- Products ↔ Orders
+- Products ↔ Interactions
+to enable cross-table analytics and dashboard visualizations.
+
+<p align="center">
+  <img src="visualization/model_view.png" width="55%">
+</p>
 
 ---
 
