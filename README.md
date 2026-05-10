@@ -34,8 +34,45 @@ The system also features a **Streamlit interface** for interactive predictions a
 | ![Invalid](output/invalid_UserID.png) | ![Valid](output/valid_UserID.png) |
 
 ---
+## Power BI Dashboard
+
+Interactive dashboards were created using :contentReference[oaicite:0]{index=0} to analyze sales trends, customer interactions, and recommendation-related insights.
+
+### Dashboard 1 — Business & Sales Overview
+- KPI cards for Total Users, Orders, Revenue, and Products
+- Revenue by Category
+- Orders Trend Over Time
+- Top Categories by Orders
+- Top Spending Users
+
+### Dashboard 2 — User Behavior Analytics
+- Interaction Distribution by Category
+- Event Type Distribution
+- Most Interacted Products
+
+### Data Relationships
+Relationships were created between:
+- Users ↔ Orders
+- Users ↔ Interactions
+- Products ↔ Orders
+- Products ↔ Interactions
+
+to enable cross-table analytics and dashboard visualizations.
+
+## Dashboard Screenshots
+
+### Model View
+![Model View](visualization/model_view.png)
+
+### Dashboard 1 — Business & Sales Overview
+![Dashboard 1](visualization/dashboard1.png)
+
+### Dashboard 2 — User Behavior Analytics
+![Dashboard 2](visualization/dashboard2.png)
+
+---
 
 ## Future Improvements
-- Upgrade Streamlit frontend with multi-page UI and visualizations.
+- Upgrade Streamlit frontend with multi-page UI.
 - Real-time recommendation updates when database changes.
 - Deploy to Heroku / Streamlit Cloud for online access.
