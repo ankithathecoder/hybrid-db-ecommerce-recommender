@@ -61,14 +61,24 @@ to enable cross-table analytics and dashboard visualizations.
 
 ## Dashboard Screenshots
 
-### Model View
-![Model View](visualization/model_view.png)
+<p align="center">
+  <img src="visualization/model_view.png" width="55%">
+</p>
 
-### Dashboard 1 — Business & Sales Overview
-![Dashboard 1](visualization/dashboard1.png)
-
-### Dashboard 2 — User Behavior Analytics
-![Dashboard 2](visualization/dashboard2.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="visualization/dashboard1.png" width="100%">
+      <br>
+      <b>Dashboard 1 — Business & Sales Overview</b>
+    </td>
+    <td align="center">
+      <img src="visualization/dashboard2.png" width="100%">
+      <br>
+      <b>Dashboard 2 — User Behavior Analytics</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
